@@ -23,7 +23,7 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-es2015-node6": "^0.4.0",
     "mocha": "^3.2.0",
-    "tramway": "^0.2.1",
+    "tramway": "^0.5.5",
     "tramway-core-testsuite": "^1.2.0"
   },
   "dependencies": {
